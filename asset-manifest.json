@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/andarbech/static/css/main.073c9b0a.css",
+    "main.js": "/andarbech/static/js/main.d7153a55.js",
+    "static/js/787.fa32592c.chunk.js": "/andarbech/static/js/787.fa32592c.chunk.js",
+    "static/media/logo.svg": "/andarbech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/andarbech/index.html",
+    "main.073c9b0a.css.map": "/andarbech/static/css/main.073c9b0a.css.map",
+    "main.d7153a55.js.map": "/andarbech/static/js/main.d7153a55.js.map",
+    "787.fa32592c.chunk.js.map": "/andarbech/static/js/787.fa32592c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d7153a55.js"
+  ]
+}
