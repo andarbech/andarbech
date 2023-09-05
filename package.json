@@ -1,7 +1,7 @@
 {
   "name": "andarbech",
   "version": "0.1.0",
-  "homepage": "https://andarbech.github.io",
+  "homepage": "https://andarbech.github.io/andarbech",
   "private": true,
   "dependencies": {
     "@fluentui/react": "^8.111.2",
