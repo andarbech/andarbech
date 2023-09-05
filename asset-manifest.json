@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.f4f0bc83.js",
-    "static/js/787.fa32592c.chunk.js": "/static/js/787.fa32592c.chunk.js",
-    "static/media/analytics.png": "/static/media/analytics.1b038ffea366b19168b8.png",
-    "static/media/CV.pdf": "/static/media/CV.0420e7208c9dadbada52.pdf",
-    "static/media/aarboleda.png": "/static/media/aarboleda.aeb98a5994863d4a6b2a.png",
-    "index.html": "/index.html",
-    "main.f4f0bc83.js.map": "/static/js/main.f4f0bc83.js.map",
-    "787.fa32592c.chunk.js.map": "/static/js/787.fa32592c.chunk.js.map"
+    "main.js": "/andarbech/static/js/main.7d7a3964.js",
+    "static/js/787.fa32592c.chunk.js": "/andarbech/static/js/787.fa32592c.chunk.js",
+    "static/media/analytics.png": "/andarbech/static/media/analytics.1b038ffea366b19168b8.png",
+    "static/media/CV.pdf": "/andarbech/static/media/CV.0420e7208c9dadbada52.pdf",
+    "static/media/aarboleda.png": "/andarbech/static/media/aarboleda.aeb98a5994863d4a6b2a.png",
+    "index.html": "/andarbech/index.html",
+    "main.7d7a3964.js.map": "/andarbech/static/js/main.7d7a3964.js.map",
+    "787.fa32592c.chunk.js.map": "/andarbech/static/js/787.fa32592c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f4f0bc83.js"
+    "static/js/main.7d7a3964.js"
   ]
 }
