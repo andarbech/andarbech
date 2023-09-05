@@ -88,16 +88,16 @@ const NavMenu = () => {
                 ],
             },
         },
-        {
-            key: 'Contact',
-            text: 'Contact',
-        }
+        // {
+        //     key: 'Contact',
+        //     text: 'Contact',
+        // }
 
     ];
 
     return (
         <div style={customStyle}>
-            <Link to='/'>
+            <Link to='/andarbech'>
                 <img src={logo} alt='Andres Arboleda' width='auto' height='71px' style={itemStyles.icon} />
             </Link>
             <CommandBar

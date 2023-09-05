@@ -3,7 +3,7 @@ import Home from "./components/pages/Home/Home";
 
 const AppRoutes = [
   {
-    index: true,
+    path: '/andarbech',
         element: <Home />
     },
     {
