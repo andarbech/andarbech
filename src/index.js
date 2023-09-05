@@ -1,17 +1,18 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
+import { createRoot } from 'react-dom/client';
+import { BrowserRouter } from 'react-router-dom';
 import App from './App';
+import { FluentProvider, teamsLightTheme } from '@fluentui/react-components';
 import reportWebVitals from './reportWebVitals';
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const baseUrl = document.getElementsByTagName('base')[0]?.getAttribute('href');
+const rootElement = document.getElementById('root');
+rootElement.style ="#45c2cc"
+const root = createRoot(rootElement);
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <BrowserRouter basename={baseUrl}>
+        <FluentProvider theme={teamsLightTheme}>
+      <App />
+    </FluentProvider>
+  </BrowserRouter>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
