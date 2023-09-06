@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/andarbech/static/js/main.5ff241a6.js",
+    "main.js": "/andarbech/static/js/main.5b956b90.js",
     "static/js/787.fa32592c.chunk.js": "/andarbech/static/js/787.fa32592c.chunk.js",
     "static/media/analytics.png": "/andarbech/static/media/analytics.1b038ffea366b19168b8.png",
     "static/media/CV.pdf": "/andarbech/static/media/CV.696b4e3934ff54732fdc.pdf",
     "static/media/aarboleda.png": "/andarbech/static/media/aarboleda.aeb98a5994863d4a6b2a.png",
     "index.html": "/andarbech/index.html",
-    "main.5ff241a6.js.map": "/andarbech/static/js/main.5ff241a6.js.map",
+    "main.5b956b90.js.map": "/andarbech/static/js/main.5b956b90.js.map",
     "787.fa32592c.chunk.js.map": "/andarbech/static/js/787.fa32592c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.5ff241a6.js"
+    "static/js/main.5b956b90.js"
   ]
 }
