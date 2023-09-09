@@ -11,6 +11,7 @@ import {
 } from "@fluentui/react-components";
 import imgPath from "../../../assets/perfil.png"
 import analytics from "../../../assets/analytics.png"
+import { Link } from '@fluentui/react-components';
 
 const useStyles = makeStyles({
     card: {
@@ -26,11 +27,15 @@ const MainCard = () => {
             <CardHeader
                 image={
                     // eslint-disable-next-line jsx-a11y/img-redundant-alt
-                    <img src={imgPath} alt="Andres Arboleda avatar picture"/>
+                    <div style={{cursor: "pointer"}}>
+                        <a href="https://www.linkedin.com/in/arndresarboleda/"> 
+                        <img  src={imgPath} alt="Andres Arboleda avatar picture"/>
+                        </a>
+                    </div>
                 }
               header={
                     <Body1>
-                        <b>Andres Arboleda </b> Cloud Consultant 
+                       <Link href="https://www.linkedin.com/in/arndresarboleda/">  <b>Andres Arboleda.</b></Link> Cloud Consultant 
                     </Body1>
                 }
                 description={<Caption1> Diagram of typically developed end-to-end solutions </Caption1>}

@@ -14,6 +14,9 @@ const AppRoutes = [
     {
         path:'*',
         element:<NotFound/>
+    }, {
+        path:'/',
+        element:<Home/>
     }
 ];
 

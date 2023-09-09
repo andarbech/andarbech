@@ -230,15 +230,20 @@ const PBIcard = () => {
             <CardHeader
                 image={
                     // eslint-disable-next-line jsx-a11y/img-redundant-alt
-                    <img src={imgPath} alt="Andres Arboleda avatar picture" />
+                                        // eslint-disable-next-line jsx-a11y/img-redundant-alt
+                    <div style={{cursor: "pointer"}}>
+                        <a href="https://www.linkedin.com/in/arndresarboleda/"> 
+                        <img  src={imgPath} alt="Andres Arboleda avatar picture"/>
+                        </a>
+                    </div>
                 }
                 header={
                     <Body1>
-                        <b>Andres Arboleda </b> Cloud Consultant
+                        <Link href="https://www.linkedin.com/in/arndresarboleda/"> <b>Andres Arboleda </b></Link>Cloud Consultant
                     </Body1>
                 }
                 description={<Caption1>
-                    <Subtitle1> Tickets Project	</Subtitle1><br></br>
+                    <Text> <b>Tickets Project.</b></Text><br></br>
                 </Caption1>}
             />
             <Stack>

@@ -36,8 +36,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" title="Heroku" alt="Heroku"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" title="Firebase" alt="Firebase"/>
-    <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-    <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+    <img  alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+    <img  alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 </div>
 
 <br />

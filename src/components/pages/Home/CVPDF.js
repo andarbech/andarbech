@@ -2,6 +2,7 @@
 import PDfdocs from "../../../assets/CV.pdf"
 import imgPath from "../../../assets/perfil.png"
 import { Viewer, Worker } from '@react-pdf-viewer/core';
+import { Link } from '@fluentui/react-components';
 
 
 import {
@@ -41,11 +42,16 @@ const CVPDF = () => {
             <CardHeader
                 image={
                     // eslint-disable-next-line jsx-a11y/img-redundant-alt
-                    <img src={imgPath} alt="Andres Arboleda avatar picture" />
+                                        // eslint-disable-next-line jsx-a11y/img-redundant-alt
+                    <div style={{cursor: "pointer"}}>
+                        <a href="https://www.linkedin.com/in/arndresarboleda/"> 
+                        <img  src={imgPath} alt="Andres Arboleda avatar picture"/>
+                        </a>
+                    </div>
                 }
                 header={
                     <Body1>
-                        <b>Andres Arboleda </b> Cloud Consultant
+                        <Link href="https://www.linkedin.com/in/arndresarboleda/"> <b>Andres Arboleda.</b></Link> Cloud Consultant
                     </Body1>
                 }
                 description={<Caption1>Curriculum Vitae </Caption1>}
@@ -53,8 +59,7 @@ const CVPDF = () => {
             <Card>
                 {/*<Worker workerUrl="https://unpkg.com/pdfjs-dist@3.4.120/build/pdf.worker.min.js">*/}
                 <Worker workerUrl="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.10.111/pdf.worker.min.js">
-                <div style={{ width: "100%", height: "838px"
-}}>
+                <div style={{ width: "100%", height: "100%",marginBottom: "-4px"}}>
                         <Viewer
                             fileUrl={PDfdocs}
                         />
