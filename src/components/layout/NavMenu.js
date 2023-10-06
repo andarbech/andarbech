@@ -16,8 +16,10 @@ const itemStyles = {
 
 const menuStyles = {
     subComponentStyles: { menuItem: itemStyles, callout: {} },
-    palette: { color: theme.palette.red },
+    palette: { color: theme.palette.red},
+    
 };
+
 
 const CustomButton = (props) => {
     const navigate = useNavigate();
