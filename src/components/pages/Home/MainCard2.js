@@ -38,7 +38,7 @@ const MainCard2 = () => {
                 }
               header={
                     <Body1>
-                       <Link href="https://www.linkedin.com/in/arndresarboleda/">  <b>Andres Arboleda.</b></Link> Cloud Consultant 
+                       <Link href="https://www.linkedin.com/in/arndresarboleda/">  <b>Andres Arboleda.</b></Link> Technology Consultant | Developer 
                     </Body1>
                 }
                 description={<Caption1><HandWave16Filled/> </Caption1>}

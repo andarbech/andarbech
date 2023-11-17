@@ -3,8 +3,7 @@ import PDfdocs from "../../../assets/CV.pdf"
 import imgPath from "../../../assets/perfil.png"
 import { Viewer, Worker } from '@react-pdf-viewer/core';
 import { Link } from '@fluentui/react-components';
-
-
+// import { defaultLayoutPlugin } from '@react-pdf-viewer/default-layout';
 import {
     makeStyles,
     Card,
@@ -18,6 +17,7 @@ import {
 
 import { ArrowDownload24Filled } from "@fluentui/react-icons";
 //const defaultLayoutPluginInstance = defaultLayoutPlugin();
+// const defaultLayoutPluginInstance = defaultLayoutPlugin();
 
 const useStyles = makeStyles({
     card: {
@@ -51,7 +51,7 @@ const CVPDF = () => {
                 }
                 header={
                     <Body1>
-                        <Link href="https://www.linkedin.com/in/arndresarboleda/"> <b>Andres Arboleda.</b></Link> Cloud Consultant
+                        <Link href="https://www.linkedin.com/in/arndresarboleda/"> <b>Andres Arboleda.</b></Link> Technology Consultant | Developer
                     </Body1>
                 }
                 description={<Caption1>Curriculum Vitae </Caption1>}
@@ -62,7 +62,10 @@ const CVPDF = () => {
                 <div style={{ width: "100%", height: "100%",marginBottom: "-4px"}}>
                         <Viewer
                             fileUrl={PDfdocs}
-                        />
+                            // plugins={[
+                            //     defaultLayoutPluginInstance
+                            // ]}
+                            />
                 </div>
                     </Worker>
             </Card>
@@ -75,9 +78,3 @@ const CVPDF = () => {
     );
     };
 export default CVPDF
-/*
-
-
-return (
-    
-);*/

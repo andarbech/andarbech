@@ -69,6 +69,7 @@ const NavMenu = () => {
         {
             key: 'Projects',
             text: 'Projects',
+            ItemIconColor:"#f3f2f0",
             subMenuProps: {
                 contextualMenuItemAs: CustomMenuItem,
                 styles: menuStyles,
@@ -106,6 +107,7 @@ const NavMenu = () => {
                 overflowButtonProps={overflowProps}
                 buttonAs={CustomButton}
                 items={_items}
+                ItemOverflow="true"
             />
         </div>
     );

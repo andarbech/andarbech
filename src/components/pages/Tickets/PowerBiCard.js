@@ -75,7 +75,7 @@
 //                 }
 //                 header={
 //                     <Body1>
-//                         <b>Andres Arboleda </b> Cloud Consultant
+//                         <b>Andres Arboleda </b> Technology Consultant | Developer
 //                     </Body1>
 //                 }
 //                 description={<Caption1>
@@ -239,7 +239,7 @@ const PBIcard = () => {
                 }
                 header={
                     <Body1>
-                        <Link href="https://www.linkedin.com/in/arndresarboleda/"> <b>Andres Arboleda </b></Link>Cloud Consultant
+                        <Link href="https://www.linkedin.com/in/arndresarboleda/"> <b>Andres Arboleda </b></Link>Technology Consultant | Developer
                     </Body1>
                 }
                 description={<Caption1>
