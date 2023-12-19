@@ -61,6 +61,7 @@ const customStyle = {
     alignItems: 'center',
     justifyContent: 'flex-start',
     boxShadow: theme.effects.elevation16,
+    backgroudColor:'red'
 };
 
 const NavMenu = () => {
