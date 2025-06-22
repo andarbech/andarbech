@@ -31,7 +31,7 @@ With a strong background in **Azure Data Solutions**, **Power Platform**, and **
 ## 💼 Experience Snapshot
 
 ### 🟣 **Data Engineer @ EY Consulting**  
-📍 _barcelona, Spain | Since 2023_  
+📍 _barcelona, Spain | Since 2024_  
 - Building and optimizing large-scale data solutions using **Microsoft Fabric**  
 - Implementing **Delta Lake architecture** for reliable data lakes  
 - Developing **ETL/ELT pipelines** with **PySpark**, Fabric Pipelines, and SQL  
