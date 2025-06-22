@@ -67,7 +67,7 @@ With a strong background in **Azure Data Solutions**, **Power Platform**, and **
 ## 🤝 Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arndresarboleda/" target="_blank">
+  <a href="https://www.linkedin.com/in/andarbech/" target="_blank">
     <img src="./img/linkedin-light.svg#gh-light-mode-only" width="40" />
     <img src="./img/linkedin-dark.svg#gh-dark-mode-only" width="40" />
   </a>
