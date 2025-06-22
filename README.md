@@ -1,50 +1,93 @@
-# Hi there, I'm Andres Arboleda 👋 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about web3 and data science
-- ⚡ Fun fact: I love play chess and read Gabo Books.
+<h1 align="center">👋 Hi, I'm Andrés Arboleda</h1>
 
-### <h2>Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-[![website](./img/twitter-light.svg)](https://twitter.com/and_arb_ech#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/and_arb_ech#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arndresarboleda/#gh-dark-mode-only)
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineer-Fabric%20%7C%20PySpark%20%7C%20Delta%20Lake-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microsoft-EY%20Consulting-blue?style=flat-square&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Location-Barcelona,%20Spain-red?style=flat-square" />
+</p>
 
+---
 
+## 🚀 About Me
 
-<h2> Languages and technologies
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<div>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="html5"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="css3"/>  
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title ="javascript"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" title="typescript" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" title="Bootstrap"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwindcss" title="Tailwindcss"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="Sass"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="40" height="40" title="Redux"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js" title="NodeJS"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express.js" title="ExpressJS"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="PHP" title="PHP"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"  title="MySQL"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode"  title="VSCode"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" alt="Jest" title="Jest" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" width="40" title="Webpack" alt="Webpack"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" title="Heroku" alt="Heroku"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" title="Firebase" alt="Firebase"/>
-    <img  alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-    <img  alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-</div>
+🎯 I'm a passionate **Data Engineer** at **EY Consulting**, specializing in scalable data pipelines and modern analytics platforms.  
+🔍 My current focus is on **Microsoft Fabric**, **Delta Lake**, and **PySpark**, transforming complex datasets into actionable insights.
 
-<br />
-<br />
-<img src="https://activity-graph.herokuapp.com/graph?username=andarbech&theme=redical&hide_border=true&area=true"/>
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api?username=andarbech&show_icons=true&theme=radical"/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=andarbech&theme=radical"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andarbech&theme=radical"/>
+With a strong background in **Azure Data Solutions**, **Power Platform**, and **Business Intelligence**, I bring a unique blend of technical depth and business understanding to every project.
+
+---
+
+## 🛠️ Core Tech Stack
+
+| Area                | Tools & Tech                                             |
+|---------------------|----------------------------------------------------------|
+| 💾 Data Engineering | Fabric, Delta Lake, PySpark, Synapse, ADF, Databricks    |
+| 📊 BI & Reporting   | Power BI, SQL Server, Power Automate, Views & SPs        |
+| 🌐 Dev Tools        | Python, .NET Core, Bash, Docker, Git                     |
+| ☁️ Cloud Platforms  | Azure (ADF, Web Apps, Functions,DataLake )                |
+
+---
+
+## 💼 Experience Snapshot
+
+### 🟣 **Data Engineer @ EY Consulting**  
+📍 _barcelona, Spain | Since 2023_  
+- Building and optimizing large-scale data solutions using **Microsoft Fabric**  
+- Implementing **Delta Lake architecture** for reliable data lakes  
+- Developing **ETL/ELT pipelines** with **PySpark**, Fabric Pipelines, and SQL  
+- Collaborating with cross-functional teams to deliver enterprise-grade analytics
+
+### 🔵 Digital Transformation Consultant @ AlsviorGlobal  
+📍 _Barcelona, Spain | 2022–2023_  
+- Designed complete data architectures using Azure Synapse, Databricks, and Power Platform  
+- Developed reusable components in PowerApps (PCF)  
+- Improved Power BI performance via optimized queries and views
+
+### 🟢 Full Stack Developer @ Assembler Institute  
+📍 _Barcelona, Spain | 2021–2022_  
+- Delivered over 30 full-stack projects using MERN & LAMP stacks  
+- Applied Scrum, Git, Docker, OOP & Clean Code principles
+
+---
+
+## 🎓 Education
+
+- 🎓 MSc in Software Development – _Assembler Institute of Technology_  
+- 🎓 BSc in Business Administration – _University of Seville_
+
+---
+
+## 🏆 Awards & Initiatives
+
+- 🥇 1st Place – *Ideas Factory 2021* (UPO) – Sustainable Agriculture  
+- 🚀 *Explorer SanBank Program 2019* – Developed “Farm Assistant” startup idea
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arndresarboleda/" target="_blank">
+    <img src="./img/linkedin-light.svg#gh-light-mode-only" width="40" />
+    <img src="./img/linkedin-dark.svg#gh-dark-mode-only" width="40" />
+  </a>
+  <a href="https://twitter.com/and_arb_ech" target="_blank">
+    <img src="./img/twitter-light.svg#gh-light-mode-only" width="40" />
+    <img src="./img/twitter-dark.svg#gh-dark-mode-only" width="40" />
+  </a>
+</p>
+
+📬 andarbech1@gmail.com  
+📞 +34 613 555 895  
+
+---
+
+## ✨ Fun Facts
+
+♟️ Chess & strategy enthusiast  
+💃 Salsa dancer  
+📚 Lover of magical realism literature  
+🌱 Always learning something new in the world of data
+
+---
 
